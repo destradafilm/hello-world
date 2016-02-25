@@ -1,2 +1,2 @@
-version master blahblah version3
+blahblah
 this is branch called "version2"
